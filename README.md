@@ -1,2 +1,2 @@
-# Turkish-notes-app
-This is an app for turkish users, it has create read update and delete features.
+# notes-app
+This is an note app, it has create read update and delete features.
